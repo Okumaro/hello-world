@@ -1,2 +1,2 @@
 # hello-world
-Well... hello world
+New to coding like a new born child.
